@@ -1,5 +1,17 @@
 # Hate-Speech-Detector
 
+## Project WorkFlow 
+
+-- constant
+-- config_entity
+-- artifacts_entity
+-- components
+-- pipeline
+-- app.py
+
+
+
+
 
 ## How to run?
 
@@ -14,3 +26,4 @@ conda activate hate
 ```bash
 pip install requirements.txt
 ```
+
